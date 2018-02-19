@@ -1,0 +1,16 @@
+C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\bin\Debug\AgileAutomationsTask.exe.config
+C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\bin\Debug\AgileAutomationsTask.exe
+C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\bin\Debug\AgileAutomationsTask.pdb
+C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\obj\Debug\AgileAutomationsTask.csprojResolveAssemblyReference.cache
+C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\obj\Debug\MainWindow.baml
+C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\obj\Debug\MainWindow.g.cs
+C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\obj\Debug\App.g.cs
+C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\obj\Debug\AgileAutomationsTask_MarkupCompile.cache
+C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\obj\Debug\AgileAutomationsTask.g.resources
+C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\obj\Debug\AgileAutomationsTask.Properties.Resources.resources
+C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\obj\Debug\AgileAutomationsTask.csproj.GenerateResource.Cache
+C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\obj\Debug\AgileAutomationsTask.exe
+C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\obj\Debug\AgileAutomationsTask.pdb
+C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\obj\Debug\AgileAutomationsTask.csproj.ResolveComReference.cache
+C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\bin\Debug\WebDriver.dll
+C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\bin\Debug\WebDriver.xml
