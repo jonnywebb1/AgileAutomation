@@ -8,10 +8,10 @@ namespace AgileAutomationsTask
 {
     public class ContactDetails
     {
-        public string Name { get; set; }
-        public string Email { get; set; }
-        public string Subject { get; set; }
+        public string ContactName { get; set; }
+        public string ContactEmail { get; set; }
+        public string ContactSubject { get; set; }
         public string Message { get; set; }
-        public string Reference { get; set; }
+        public string ReferenceNo { get; set; }
     }
 }

@@ -5,7 +5,5 @@
     <Grid Margin="0,0,0,62">
         <Label x:Name="Title" Content="Agile Automations Form Subission Task" HorizontalAlignment="Center" Height="49" Margin="50,44,29,0" VerticalAlignment="Top" Width="438" FontSize="24" FontStyle="Italic" RenderTransformOrigin="0.498,1.103"/>
         <Button x:Name="btn_SelectExcel" Content="Select Excel File" HorizontalAlignment="Center" Height="40" Margin="143,125,149,0" VerticalAlignment="Top" Width="225" FontSize="24" Click="Button_SelectExcel_Click"/>
-        <Button x:Name="btn_SubmitContactDetails" Content="Submit Contact Details" HorizontalAlignment="Left" Height="34" Margin="143,213,0,0" VerticalAlignment="Top" Width="225" FontSize="24" Visibility="Hidden" Click="btn_SubmitContactDetails_Click"/>
-
     </Grid>
 </Window>

@@ -14,3 +14,5 @@ C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\obj\Debug\Agi
 C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\obj\Debug\AgileAutomationsTask.csproj.ResolveComReference.cache
 C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\bin\Debug\WebDriver.dll
 C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\bin\Debug\WebDriver.xml
+C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jonny\Docs\Jobs\AgileAutomationsTask\AgileAutomationsTask\bin\Debug\Newtonsoft.Json.xml
